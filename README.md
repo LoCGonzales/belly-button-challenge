@@ -53,6 +53,7 @@ Display the sample's metadata, i.e., an individual's demographic information.
 Loop through each key-value pair from the metadata JSON object and create a text string.
 
 Append an html tag with that text to the #sample-metadata panel.
+
 ![image](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg)
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
